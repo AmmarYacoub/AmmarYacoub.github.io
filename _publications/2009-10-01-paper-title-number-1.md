@@ -2,7 +2,7 @@
 title: "Magnetically actuated millimeter-scale biped."
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
+permalink: /publication/"Magnetically actuated
 excerpt: This paper presents a novel approach to studying bipedal locomotion using magnetically actuated miniature robots. Traditional bipedal locomotion machines are expensive and complex. In contrast, we introduce “Big Foot”, a lightweight 0.3 g robot designed to explore fundamental concepts of bipedal locomotion without requiring complex hardware.
 date: 2025-08-01
 venue: 'Robotics and Autonomous Systems '
