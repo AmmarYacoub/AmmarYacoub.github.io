@@ -8,6 +8,6 @@ date: 2025-08-01
 venue: 'Robotics and Autonomous Systems '
 slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/Magnetically_actuated.bib'
+bibtexurl: '[https://academicpages.github.io/files](https://github.com/AmmarYacoub/AmmarYacoub.github.io/tree/master/files/Magnetically_actuated.bib)'
 citation: 'Cox, A., Asadi, F., Yacoub, A., Beskok, S., & Hurmuzlu, Y. (2025). Magnetically actuated millimeter-scale biped. Robotics and Autonomous Systems, 190, 104985'
 ---
