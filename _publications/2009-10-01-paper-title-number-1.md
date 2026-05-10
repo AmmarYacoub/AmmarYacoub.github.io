@@ -5,8 +5,8 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2025-08-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
+venue: 'Robotics and Autonomous Systems '
+slidesurl: #'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
 bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
 citation: 'Cox, A., Asadi, F., Yacoub, A., Beskok, S., & Hurmuzlu, Y. (2025). Magnetically actuated millimeter-scale biped. Robotics and Autonomous Systems, 190, 104985'
