@@ -10,5 +10,5 @@ image: /images/Just_Poster.jpg
 ---
 
 Awarded Second Place in the Graduate Research Day Poster Competition, organized by the Graduate School at Jordan University of Science and Technology, in recognition of outstanding research presentation.
- /images/Just_Poster.jpg
+ (/images/Just_Poster.jpg){: .align-right width="300px"}
 
