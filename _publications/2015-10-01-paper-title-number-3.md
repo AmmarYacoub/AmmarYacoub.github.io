@@ -1,9 +1,9 @@
 ---
-title: "Modeling and Compensation of Static Friction to Improve Force Tracking Performance in Miniature Pneumatic Cylinders"
+title: "Modeling and Compensation of Static Friction to Improve Force Tracking Performance in Miniature Pneumatic Cylinders (Under Review)"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: Haptic gloves require actuators capable of precise force trajectory tracking. Pneumatic actuators exhibit high force to weight ratio performance; however, their usage is often limited by high nonlinearities and friction-induced uncertainties. This study investigates the position and pressure-dependent static friction in small-scale pneumatic actuators. A new stiction model is proposed that explicitly incorporates these dependencies to accurately characterize static friction effects. In order to exploit this model, a sliding mode controller (SMC) with estimated friction compensation is developed and experimentally validated. When actuator force is estimated using pressure measurements, results show that incorporating the friction model significantly reduces amplitude errors compared to uncompensated control. 
 date: 2026-05-01
 venue: 'IEEE Transactions on Control Systems Technology'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
