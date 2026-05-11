@@ -1,7 +1,7 @@
 ---
-title: "Control Systems laboratory."
+title: "GRADUATE TEACHING ASSISTANT"
 collection: teaching
-type: "Teaching"
+type: "GRADUATE TEACHING ASSISTANT"
 permalink: /teaching/2026-spring-teaching-1
 venue: "SMU, Mechanical"
 date: 2026-01-01
