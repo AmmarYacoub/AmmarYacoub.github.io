@@ -6,7 +6,7 @@ permalink: /publication/Design
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2026-01-01
 venue: 'Mechanism and Machine Theory'
-slidesurl: 'https://academicpages.github.io/files/slides2.pdf'
+bibtexurl: 'https://AmmarYacoub.github.io/files/Design.bib'
 paperurl: 'https://academicpages.github.io/files/paper2.pdf'
 citation: 'Yacoub, A., Richer, E., & Hurmuzlu, Y. Design and Kinematic Analyses of the SMU Haptic Glove. Available at SSRN 6350469'
 ---
