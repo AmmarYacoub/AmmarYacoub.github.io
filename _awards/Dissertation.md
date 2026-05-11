@@ -4,7 +4,6 @@ collection: awards
 type: "Award"
 permalink: /award/Dissertation
 venue: "SMU Moody School"
-date: 2026-05-01
 location: "Dallas, Texas"
 ---
 
