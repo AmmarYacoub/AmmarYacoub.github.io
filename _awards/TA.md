@@ -1,11 +1,11 @@
 ---
-title: "Best Teaching Assistant "
+title: "Best Teaching Assistant Award (2026)"
 collection: awards
-type: "Award"
+type: "Teaching Award"
 permalink: /awards/frederick-e-terman-award/
-venue: "Lyle School of Engineering, Southern Methodist University"
+venue: "Mechanical Engineering Department, SMU"
 date: 2026-05-04
 location: "Dallas, Texas"
 ---
 
-Recipient of the Frederick E. Terman Award, presented by the Lyle School of Engineering at SMU in recognition of outstanding scholastic achievement and contributions to the engineering school community. The award honors the legacy of Dr. Frederick E. Terman and is given to graduate students who exemplify academic excellence and leadership.
+Recognized with the Best Teaching Assistant Award at SMU for my role in supporting students in laboratory instruction and improving their hands-on learning experience.
