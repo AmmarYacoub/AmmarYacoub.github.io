@@ -7,7 +7,6 @@ venue: "Southern Methodist University, Mechanical Engineering"
 date: 2026-01-01
 location: "Dallas, Texas"
 ---
-excerpt: >
 Served as a Graduate Teaching Assistant for the Control Systems Laboratory in the Mechanical Engineering Department at Southern Methodist University.<br>
 
 Assisted in delivering hands-on laboratory sessions focused on fundamental control systems concepts, including system modeling, time-domain response, feedback control, and stability analysis.<br>
