@@ -16,11 +16,11 @@
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
     <!-- IMAGE (clean + unified system) -->
-    {% if post.image %}
-      <div class="archive__item-teaser">
-        <img src="{{ post.image | relative_url }}" alt="{{ title }}">
-      </div>
-    {% endif %}
+{% if post.image %}
+  <div class="archive__item-teaser" style="float:right; width:160px; margin-left:15px;">
+    <img src="{{ post.image | relative_url }}" alt="{{ title }}" style="width:100%;">
+  </div>
+{% endif %}
 
     <!-- TITLE -->
     <h2 class="archive__item-title" itemprop="headline">
