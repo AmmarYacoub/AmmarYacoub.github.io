@@ -39,9 +39,9 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | date: "%B %Y"  }} </p>
         {% elsif post.collection == 'publications' %}
-          <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p>Received in <i>{{ post.venue }}</i>, {{ post.date | date: "%B %Y" }} </p>
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Received:" }}</strong> <time datetime="{{ post.date | date: "%B %Y" }}">{{ post.date | date: "%B %Y" }}</time></p>
         {% endif %}
