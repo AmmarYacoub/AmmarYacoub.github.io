@@ -5,6 +5,7 @@ type: "Award"
 permalink: /awards/deans-dissertation-fellowship/
 venue: "Moody School of Graduate and Advanced Studies, Southern Methodist University"
 location: "Dallas, Texas"
+date: 2026-04-30
 awardurl: "https://www.smu.edu/moody/funding/phd-fellows#deans-dissertation-fellowships"
 ---
 
