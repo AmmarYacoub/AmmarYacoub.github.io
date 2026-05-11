@@ -2,7 +2,7 @@
 title: "Graduate Teaching Assistant – Control Systems Laboratory"
 collection: teaching
 type: "Graduate Teaching Assistant"
-permalink: /teaching/control-systems-lab/
+permalink: /teaching/2026-spring-teaching-1/
 venue: "Southern Methodist University, Mechanical Engineering"
 date: 2026-01-01
 location: "Dallas, Texas"
