@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Control Systems laboratory."
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
+type: "Teaching"
+permalink: /teaching/2026-spring-teaching-1
 venue: "SMU, Mechanical"
-date: 2015-01-01
-location: "City, Country"
+date: 2026-01-01
+location: "Dallas, USA"
 ---
 
 This is a description of a teaching experience. You can use markdown like any other post.
