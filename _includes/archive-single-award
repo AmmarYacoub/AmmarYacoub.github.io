@@ -1,0 +1,9 @@
+<div class="archive__item">
+  <h3 class="archive__item-title">{{ post.title }}</h3>
+
+  <p><strong>Received:</strong> {{ post.date | date: "%B %Y" }}</p>
+
+  {% if post.excerpt %}
+    <p>{{ post.excerpt }}</p>
+  {% endif %}
+</div>
