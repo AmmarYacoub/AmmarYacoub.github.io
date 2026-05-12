@@ -8,4 +8,4 @@ date: 2026-05-04
 location: "Dallas, Texas"
 ---
 
-Recognized with the Best Teaching Assistant Award at SMU for my role in supporting students in laboratory instruction and improving their hands-on learning experience.
+Recognized with the Best Teaching Assistant Award from the Mechanical Engineering Department at Southern Methodist University for excellence in teaching laboratory sessions and enhancing students’ hands-on learning experience.
