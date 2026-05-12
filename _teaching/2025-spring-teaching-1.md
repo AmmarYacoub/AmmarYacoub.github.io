@@ -1,5 +1,5 @@
 ---
-title: "Control Systems Laboratory"
+title: "Elements of Mechanical Engineering Measurements Laboratory"
 collection: teaching
 type: "Graduate Teaching Assistant"
 permalink: /teaching/2026-spring-teaching-1/
@@ -7,6 +7,6 @@ venue: "Southern Methodist University, Mechanical Engineering"
 date: 2025-01-01
 location: "Dallas, Texas"
 ---
-Served as a Graduate Teaching Assistant for the Control Systems Laboratory in the Mechanical Engineering Department at Southern Methodist University. Assisted in delivering hands-on laboratory sessions focused on fundamental control systems concepts, including system modeling, time-domain response, feedback control, and stability analysis. Students implemented and validated control algorithms using MATLAB/Simulink and Quanser hardware platforms, including the **QUBE-Servo 3** and **QARoo 2** systems.<br>
+Introduces basic engineering experimentation and measurements, including techniques for measurement and experimentation; data acquisition; signal processing; and analysis, interpretation, and reporting of results.<br>
 
 
