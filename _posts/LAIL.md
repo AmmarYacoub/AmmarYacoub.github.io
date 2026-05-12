@@ -10,7 +10,7 @@ tags:
   - Technical Leadership
   - Engineering
   - SMU
-
+---
 Last month, I contributed to the launch of the Lyle Autonomous & Applied Artificial Intelligence Laboratory (LAIL) at Southern Methodist University.
 
 I played a key role in overseeing the installation and configuration of the laboratory equipment, helping prepare the space for student use and research activities. I also organized and deployed the technical demonstrations presented during the laboratory opening, showcasing the lab’s capabilities in autonomous systems and applied artificial intelligence.
