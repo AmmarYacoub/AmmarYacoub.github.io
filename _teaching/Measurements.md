@@ -2,7 +2,7 @@
 title: "Elements of Mechanical Engineering Measurements Laboratory"
 collection: teaching
 type: "Graduate Teaching Assistant"
-permalink: /teaching/2026-spring-teaching-1/
+permalink: /teaching/Measurements/
 venue: "Southern Methodist University, Mechanical Engineering"
 date: 2025-01-01
 location: "Dallas, Texas"
