@@ -7,6 +7,5 @@ venue: "Southern Methodist University, Mechanical Engineering"
 date: 2025-01-01
 location: "Dallas, Texas"
 ---
-Introduces basic engineering experimentation and measurements, including techniques for measurement and experimentation; data acquisition; signal processing; and analysis, interpretation, and reporting of results.<br>
-
+I guided senior students in experimental design, data acquisition, and system integration utilizing tools like LabVIEW. I offered comprehensive support for final projects and extended my mentorship beyond my formal duties, teaching students how to use Arduino-based platforms and encouraging them to apply these tools to develop their ideas.
 
