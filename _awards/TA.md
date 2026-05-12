@@ -1,5 +1,5 @@
 ---
-title: "Best Teaching Assistant Award (2026)"
+title: "Best Teaching Assistant Award"
 collection: awards
 type: "Teaching Award"
 permalink: /awards/TA/
