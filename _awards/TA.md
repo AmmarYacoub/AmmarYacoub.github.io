@@ -6,6 +6,7 @@ permalink: /awards/TA/
 venue: "Mechanical Engineering Department, SMU"
 date: 2026-05-04
 location: "Dallas, Texas"
+image: /images/Best_TA.jpg
 ---
 
 ![Poster](/images/Best_TA.jpg){: .align-right width="400px"
