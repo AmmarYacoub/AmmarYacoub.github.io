@@ -1,5 +1,5 @@
 ---
-title: "Static Friction Modeling and Compensation for Improved Force Tracking in Pneumatic Cylinders using Sliding Mode Control."
+title: "Static Friction Modeling and Compensation for Improved Force Tracking in Pneumatic Cylinders using Sliding Mode Control"
 collection: publications
 category: conferences
 permalink: /publication/ACC
