@@ -7,9 +7,14 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! 👋 I am a Ph.D. student in the Mechanical Engineering Department at Southern Methodist University, specializing in control and design. I serve as a teaching assistant for the Elements of Mechanical Engineering Measurement Lab and the Control Lab, and I am also a research assistant in the Control and Systems Lab. 
+**About Me**
+I am a Mechanical Engineering Ph.D. candidate at Southern Methodist University with a deep focus on dynamics, control systems, and haptics. Backed by over five years of prior industry experience as an Automation Engineer, my goal is to translate complex control theory into functional, real-world robotic systems.
 
-My research interests include nonlinear control, dynamics, biomechatronics, and haptic systems. Prior to starting my Ph.D., I accumulated over five years of industry experience as an automation engineer in the food and beverage sector.
+**Current Research**
+As a Research Assistant in the Systems Lab, my primary work focuses on a Haptic-Enabled Virtual Palpation System for 3D Elastography Medical Imaging. I am actively developing the SMU Haptic Glove, engineering its kinematics, dynamics, and nonlinear control architecture to advance medical diagnostics.
+
+**Teaching & Mentorship**
+I am passionate about engineering education, leading senior undergraduate students as a Teaching Assistant for both the Control Lab and the Elements of Mechanical Engineering Measurement Lab.
 
 Education
 ------------
