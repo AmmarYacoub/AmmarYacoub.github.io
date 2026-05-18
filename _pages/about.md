@@ -15,7 +15,7 @@ I am passionate about engineering education, leading senior undergraduate studen
 
 Education
 ------------
-- Ph.D. in Mechanical Engineering  at Southern Methodist University (SMU), Present
-- M.Sc. in Mechanical/Mechatronics Engineering at Jordan University of Science and Technology (JUST), 2022
-- B.Sc. in Mechatronics Engineering at University of Jordan (JU), 2018
+🎓 Ph.D. in Mechanical Engineering  at Southern Methodist University (SMU), Present
+🎓 M.Sc. in Mechanical/Mechatronics Engineering at Jordan University of Science and Technology (JUST), 2022
+🎓 B.Sc. in Mechatronics Engineering at University of Jordan (JU), 2018
 
