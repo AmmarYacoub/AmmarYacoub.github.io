@@ -10,4 +10,5 @@ image: /images/Best_TA.jpeg
 ---
 
 ![Best_TA](/images/Best_TA.jpeg){: .align-right width="400px"
-}Recognized with the Best Teaching Assistant Award from the Mechanical Engineering Department at Southern Methodist University for excellence in teaching laboratory sessions and enhancing students’ hands-on learning experience.
+}(/images/Best_TA.jpeg)Recognized with the Best Teaching Assistant Award from the Mechanical Engineering Department at Southern Methodist University for excellence in teaching laboratory sessions and enhancing students’ hands-on learning experience.
+
