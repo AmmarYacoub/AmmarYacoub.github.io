@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Mechanical Engineering Ph.D. candidate at Southern Methodist University with a deep focus on dynamics, control systems, and haptics. Backed by over five years of prior industry experience as an Automation Engineer, my goal is to translate complex control theory into functional, real-world robotic systems.
+Welcome! I am a Mechanical Engineering Ph.D. candidate at Southern Methodist University with a deep focus on dynamics, control systems, and haptics. Backed by over five years of prior industry experience as an Automation Engineer, my goal is to translate complex control theory into functional, real-world robotic systems.
 
 As a Research Assistant in the Systems Lab, my primary work focuses on a Haptic-Enabled Virtual Palpation System for 3D Elastography Medical Imaging. I am actively developing the SMU Haptic Glove, engineering its kinematics, dynamics, and nonlinear control architecture to advance medical diagnostics.
 
