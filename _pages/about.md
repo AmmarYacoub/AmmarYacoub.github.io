@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "🚀 **About me** This personal website is under development. Stay tuned for updates."
+title: "**About me** "
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,6 +15,18 @@ I am passionate about engineering education, leading senior undergraduate studen
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: space-between;">
 
+ <!-- Research Interests Column -->
+  <div style="flex: 1; min-width: 300px;">
+    <h3>Research Interests</h3>
+    <hr>
+    <ul style="padding-left: 20px;">
+      <li style="margin-bottom: 10px;">Dynamics & Nonlinear Control</li>
+      <li style="margin-bottom: 10px;">Medical Robotics & Haptics</li>
+      <li style="margin-bottom: 10px;">Mechatronics</li>
+      <li style="margin-bottom: 10px;">Medical Image Processing</li>
+    </ul>
+  </div>
+  
   <!-- Education Column -->
   <div style="flex: 1; min-width: 300px;">
     <h3>Education</h3>
@@ -26,16 +38,6 @@ I am passionate about engineering education, leading senior undergraduate studen
     </ul>
   </div>
 
-  <!-- Research Interests Column -->
-  <div style="flex: 1; min-width: 300px;">
-    <h3>Research Interests</h3>
-    <hr>
-    <ul style="padding-left: 20px;">
-      <li style="margin-bottom: 10px;">Dynamics & Nonlinear Control</li>
-      <li style="margin-bottom: 10px;">Medical Robotics & Haptics</li>
-      <li style="margin-bottom: 10px;">Mechatronics</li>
-      <li style="margin-bottom: 10px;">Medical Image Processing</li>
-    </ul>
-  </div>
+ 
 
 </div>
