@@ -13,9 +13,6 @@ As a Research Assistant in the Systems Lab, my primary work focuses on a Haptic-
 
 I am passionate about engineering education, leading senior undergraduate students as a Teaching Assistant for both the Control Lab and the Elements of Mechanical Engineering Measurement Lab.
 
-Education
-------------
-🎓 Ph.D. in Mechanical Engineering  at Southern Methodist University (SMU), Present
-🎓 M.Sc. in Mechanical/Mechatronics Engineering at Jordan University of Science and Technology (JUST), 2022
-🎓 B.Sc. in Mechatronics Engineering at University of Jordan (JU), 2018
-
+| Education | Research Interests |
+| :--- | :--- |
+| 🎓 **Ph.D. in Mechanical Engineering**<br>Southern Methodist University (SMU), Present<br><br>🎓 **M.Sc. in Mechanical/Mechatronics Engineering**<br>Jordan University of Science and Technology (JUST), 2022<br><br>🎓 **B.Sc. in Mechatronics Engineering**<br>University of Jordan (JU), 2018 | <ul><li>Dynamics & Nonlinear Control</li><li>Medical Robotics & Haptics</li><li>Mechatronics</li><li>Medical Image Processing</li></ul> |
