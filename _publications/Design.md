@@ -1,5 +1,5 @@
 ---
-title: "Design and Kinematics Analysis for the SMU Haptic Glove (Under Review)"
+title: "Design and Kinematics Analysis for the SMU Haptic Glove"
 collection: publications
 category: Under Review
 permalink: /publication/Design
