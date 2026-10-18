@@ -2,7 +2,7 @@
 title: "Force Control for a Pneumatic Cylinder Using Adaptive Super-Twisting Sliding Mode Control"
 collection: publications
 category: Under Review
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink:/publication/2027-07-01-pneumatic-cylinder-force-control
 date: 2027-07-01
 status: 'submitted'
 venue: 'American Control Conference 2027'
