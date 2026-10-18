@@ -1,9 +1,9 @@
 ---
 title: "Adaptive Sliding Mode Control with Friction Compensation for Force Tracking of a Small Pneumatic Cylinder"
 collection: publications
-category: Conference Papers
+category: conferences
 permalink: /publication/Design
-date: 2026-01-01
+date: 2026-12-14
 status: 'Published in'
 venue: '65th IEEE Conference on Decision and Control'
 paperurl: 'https://AmmarYacoub.github.io/files/Design_and_Kinematics.pdf'
