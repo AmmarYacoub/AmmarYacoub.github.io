@@ -7,5 +7,6 @@ excerpt: Static friction, also known as stiction, is a primary source of trackin
 date: 2026-05-26
 venue: 'American Control Conference (ACC)'
 paperurl: 'https://AmmarYacoub.github.io/files/ACC2026.pdf'
+bibtexurl: 'https://AmmarYacoub.github.io/files/ACC2026.bib'
 citation: 'Yacoub, A., Richer, E., & Hurmuzlu, Y. (2026, May). Static Friction Modeling and Compensation for Improved Force Tracking in Pneumatic Cylinders Using Sliding Mode Control. In 2026 American Control Conference (ACC) (pp. 1197-1202). IEEE.'
 ---
