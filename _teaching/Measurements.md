@@ -3,9 +3,18 @@ title: "Elements of Mechanical Engineering Measurements Laboratory"
 collection: teaching
 type: "Graduate Teaching Assistant"
 permalink: /teaching/Measurements/
-venue: "Southern Methodist University, Mechanical Engineering"
+venue: "Southern Methodist University"
 date: 2025-01-01
-location: "Dallas, Texas"
+location: "Dallas, TX"
 ---
-I guided senior students in experimental design, data acquisition, and system integration utilizing tools like LabVIEW. I offered comprehensive support for final projects and extended my mentorship beyond my formal duties, teaching students how to use Arduino-based platforms and encouraging them to apply these tools to develop their ideas.
 
+## Laboratory Overview
+
+Guided senior students in experimental design, data acquisition, and system integration. Taught students to use LabVIEW and supported laboratory experiments, final projects, and the development of their own engineering ideas.
+
+## Teaching Contributions
+
+- **Experimental methods and data acquisition:** Guided students in planning experiments, collecting data, and integrating measurement systems using LabVIEW.
+- **Project support and mentorship:** Helped students develop their final projects and extended my guidance to Arduino-based platforms so they could explore and implement their ideas.
+- **Laboratory experiments:** Supported experiments involving a wind turbine and a tube heat exchanger.
+- **Hardware and platforms:** Worked with National Instruments myDAQ and cDAQ-9174 data acquisition systems.
