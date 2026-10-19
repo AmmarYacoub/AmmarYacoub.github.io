@@ -21,4 +21,3 @@ Supported an undergraduate, hands-on course introducing students to mechatronics
 - **Applied projects:** Supervised student projects that combined sensors, microcontrollers, and actuators to create automated systems.
 ---
 
-
