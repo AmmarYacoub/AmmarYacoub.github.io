@@ -3,10 +3,17 @@ title: "Control Systems Laboratory"
 collection: teaching
 type: "Graduate Teaching Assistant"
 permalink: /teaching/2026-spring-teaching-1/
-venue: "Southern Methodist University, Mechanical Engineering"
+venue: "Southern Methodist University, Department of Mechanical Engineering"
 date: 2026-01-01
-location: "Dallas, Texas"
+location: "Dallas, TX"
 ---
-Served as a Graduate Teaching Assistant for the Control Systems Laboratory in the Mechanical Engineering Department at Southern Methodist University. Assisted in delivering hands-on laboratory sessions focused on fundamental control systems concepts, including system modeling, time-domain response, feedback control, and stability analysis. Students implemented and validated control algorithms using MATLAB/Simulink and Quanser hardware platforms, including the **QUBE-Servo 3** and **QAreo 2** systems.<br>
 
+## Course and Role
 
+Supported hands-on laboratory sessions for the Control Systems Laboratory in the Department of Mechanical Engineering at Southern Methodist University. Helped students apply core control concepts through system modeling, time-domain response analysis, feedback control, and stability analysis.
+
+## Teaching Contributions
+
+- **System modeling and response:** Guided students in modeling dynamic systems and examining their time-domain behavior.
+- **Feedback control and stability:** Supported laboratory activities on feedback control and fundamental stability concepts.
+- **Simulation and implementation:** Helped students implement and validate control algorithms using MATLAB/Simulink and Quanser platforms, including the QUBE-Servo 3 and Aero 2.
