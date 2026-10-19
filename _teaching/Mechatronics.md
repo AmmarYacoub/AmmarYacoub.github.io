@@ -19,5 +19,5 @@ Supported an undergraduate, hands-on course introducing students to mechatronics
 - **Actuators and embedded systems:** Taught motor characterization and control, PWM, stepper-motor drive modes, and Arduino-based sensor and actuator integration.
 - **Student learning and assessment:** Led weekly laboratory activities, assessed technical reports, and provided feedback to help students strengthen their experimental, troubleshooting, and hardware–software integration skills.
 - **Applied projects:** Supervised student projects that combined sensors, microcontrollers, and actuators to create automated systems.
----
+
 
