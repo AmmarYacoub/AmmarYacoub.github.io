@@ -8,21 +8,17 @@ date: 2026-01-01
 location: "Dallas, TX"
 ---
 
-## Course Description & Role
-Served as the primary Graduate Teaching Assistant for **Intro to Mechatronics Laboratory**, an intensive hands-on course bridging analog electronics, modern instrumentation, sensor signal conditioning, electromechanical actuators, and microcontroller-based embedded systems. Guided undergraduate students through experimental labs utilizing Texas Instruments ASLK PRO kits, benchtop instruments, Quanser Mechatronic Trainers, and Arduino microcontrollers.
+## Course and Role
 
-## Key Responsibilities & Highlights
-* **Analog Instrumentation & Circuit Prototyping:** Instructed students in breadboard construction, resistor color-code identification, and precise electrical measurements using digital multimeters (DMMs), function generators, and digital oscilloscopes. Supervised experiments on voltage/current dividers, active/passive low-pass and high-pass filters, and frequency response analysis.
-* **Semiconductor & Operational Amplifier Applications:** Mentored students through nonlinear semiconductor circuits utilizing FR107 diodes, LEDs, and 2N3904 NPN transistor switches (including TTL-driven switching and PWM brightness control). Guided advanced op-amp configurations using TL082 ICs, covering inverting, non-inverting, difference amplifiers, sample-and-hold, integrators, and differentiators.
-* **Advanced Sensor Instrumentation & Calibration:** Facilitated data acquisition labs using modern industrial sensors, including incremental rotary encoders, Sharp IR distance sensors, Wheatstone bridge force load cells, and MAX31855-interfaced K-type thermocouples with cold-junction compensation.
-* **Actuators & Embedded System Integration:** Managed the Mechatronic Actuators Trainer to teach permanent-magnet brushed DC gearmotor characterization (H-bridge PWM control, speed-voltage relationships) and NEMA 17 hybrid stepper motor drive modes (wave, full-step, and half-step sequences). Supervised capstone lab projects involving Arduino UNO microcontrollers integrating photodiode light sensors, LM393 comparators, and micro servomotors into automated smart-system models.
-* **Student Assessment & Feedback:** Conducted weekly lab sessions, graded technical reports, and provided detailed, actionable feedback to enhance student mastery of hardware-software integration.
+Supported an undergraduate, hands-on course introducing students to mechatronics through laboratory work in analog circuits, instrumentation, sensors, actuators, and embedded systems. Led lab sessions and helped students apply hardware and software concepts using Arduino microcontrollers, instructional mechatronics platforms, and benchtop test equipment.
 
-## Hardware & Test Equipment Taught
-* **Embedded Systems & Microcontrollers:** Arduino (microcontroller programming, I/O interfacing, PWM, sensor reading)
-* **Instructional Platforms:** Texas Instruments Analog System Lab Kit (ASLK PRO), Mechatronic Actuators Trainer, Mechatronic Sensors Trainer
-* **Benchtop Instrumentation:** Digital Oscilloscopes, Function/Signal Generators, Digital Multimeters (DMMs), Breadboard Prototyping
+## Teaching Contributions
 
+- **Circuits and instrumentation:** Guided students in building and testing circuits, using oscilloscopes, function generators, and digital multimeters, and analyzing basic filter and amplifier behavior.
+- **Sensors and data acquisition:** Supported experiments with encoders, infrared distance sensors, load cells, and thermocouples, including sensor calibration and signal measurement.
+- **Actuators and embedded systems:** Taught motor characterization and control, PWM, stepper-motor drive modes, and Arduino-based sensor and actuator integration.
+- **Student learning and assessment:** Led weekly laboratory activities, assessed technical reports, and provided feedback to help students strengthen their experimental, troubleshooting, and hardware–software integration skills.
+- **Applied projects:** Supervised student projects that combined sensors, microcontrollers, and actuators to create automated systems.
 ---
 
 
