@@ -33,3 +33,9 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--academic-accent
   .academic-actions { flex-direction: column; align-items: stretch; }
   .page__content { overflow-wrap: anywhere; }
 }
+
+/* Research photographs retain their aspect ratio at all screen sizes. */
+.research-figure { margin: 1.8rem 0; }
+.research-figure img { display: block; width: 100%; max-width: 620px; height: auto; margin: 0 auto; border-radius: 4px; }
+.research-figure--glove img { max-width: 440px; }
+.research-figure figcaption { margin-top: .65rem; font-size: .75em; line-height: 1.6; }
