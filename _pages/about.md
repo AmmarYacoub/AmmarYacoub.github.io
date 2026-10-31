@@ -18,9 +18,11 @@ redirect_from:
   </div>
 </div>
 
-As a Research Assistant in the Systems Lab at Southern Methodist University, I develop haptic interfaces that bring the sense of touch to virtual palpation in 3D elastography medical imaging. My research on the SMU Haptic Glove integrates mechanical design, kinematics, dynamics, and advanced nonlinear control. I investigate, develop, and experimentally validate sliding mode, super-twisting sliding mode, and adaptive robust controllers to achieve precise force tracking under nonlinear dynamics and uncertainty. Through this work, I connect control theory with practical robotic systems to advance haptic feedback for medical applications.
+I am a Mechanical Engineering Ph.D. candidate and Research Assistant in the Systems Lab at Southern Methodist University, working at the intersection of nonlinear control, haptics, and medical robotics. My research focuses on the SMU Haptic Glove, a pneumatic interface for virtual palpation in 3D elastography medical imaging.
 
-Before my doctoral research, I gained more than five years of industry experience as an Automation Engineer. That experience continues to shape my approach: connecting mathematical models with reliable hardware and experimental validation.
+I integrate mechanical design, kinematics, and dynamic modeling with the development and experimental validation of sliding mode, super-twisting sliding mode, and adaptive robust controllers. My goal is to deliver precise, reliable force feedback despite nonlinear dynamics and uncertainty, advancing haptic interaction for medical applications.
+
+With more than five years of prior experience as an Automation Engineer, I bring a practical perspective to research—connecting control theory with hardware implementation and experimental testing.
 
 <div class="academic-columns" markdown="1">
 <section markdown="1">
