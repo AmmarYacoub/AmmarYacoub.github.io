@@ -169,12 +169,8 @@ include:
   - _pages
   - files
 exclude:
-  - _posts
   - scripts
   - WEBSITE_NOTES.md
-  - _pages/year-archive.html
-  - _pages/category-archive.html
-  - _pages/tag-archive.html
   - _pages/collection-archive.html
   - _pages/page-archive.html
   - _pages/talkmap.html
