@@ -9,12 +9,9 @@ I develop and experimentally validate **nonlinear control methods and haptic int
 
 ## Force control of pneumatic actuators
 
-I investigate friction in small pneumatic cylinders and develop **sliding mode, adaptive robust, and adaptive super-twisting controllers** for precise force tracking. My work combines pressure- and position-dependent friction modeling with real-time implementation in LabVIEW and NI hardware.
+Pneumatic actuators are lightweight and well suited to haptic devices, but friction and uncertain dynamics make precise force control challenging. I develop **sliding mode, adaptive robust, and adaptive super-twisting controllers** that address these challenges through friction compensation and adaptation.
 
-**Selected results**
-
-- **Friction compensation:** Reduced relative force-amplitude error from **31.79% to 4.29%** versus uncompensated SMC in a fixed-piston, 16 N, 1 Hz haversine test.
-- **Adaptive control:** Reduced force-amplitude error from **2.465 N to 0.422 N** versus standard SMC in a fixed-piston, 10 N, 1 Hz sinusoidal test.
+My work connects physical modeling with real-time implementation and hardware experiments, with the goal of delivering reliable force feedback for human–robot interaction.
 
 <figure class="research-figure">
   <img src="{{ '/images/research/pneumatic-force-test-rig.jpg' | relative_url }}" alt="Pneumatic force-control test rig with a cylinder, displacement sensor, and load cell" width="897" height="585" loading="lazy">
@@ -30,12 +27,9 @@ I investigate friction in small pneumatic cylinders and develop **sliding mode, 
 
 ## Haptic interfaces for virtual palpation
 
-My collaborative work on the **SMU Haptic Glove** integrates mechanical design, closed-form kinematics, workspace and singularity analysis, and theoretical force transmission for virtual palpation of 3D elastographic images. I validate fingertip localization using embedded sensors, OptiTrack motion capture, and object-size estimation.
+The **SMU Haptic Glove** is designed to bring the sense of touch to virtual palpation of 3D elastographic images. My collaborative work integrates mechanical design, fingertip localization, and force-transmission analysis to connect hand motion with interaction in a virtual environment.
 
-**Selected results**
-
-- **Component-level localization:** Radial-coordinate RMSE of **0.38 mm for the index finger** and **0.36 mm for the thumb**, measured against motion capture across 210 and 142 configurations, respectively.
-- **Full-glove assessment:** Object-radius estimation RMSE of at most **1.03 mm** across the tested spheres and cylinders in a preliminary single-participant study.
+I develop kinematic models to understand how the glove moves and validate them using embedded sensors, motion capture, and object-size estimation. This work provides a foundation for haptic interfaces that support medical image exploration.
 
 <figure class="research-figure research-figure--glove">
   <img src="{{ '/images/research/smu-haptic-glove.png' | relative_url }}" alt="SMU Haptic Glove touching a billiard ball during object-size estimation" width="778" height="726" loading="lazy">
