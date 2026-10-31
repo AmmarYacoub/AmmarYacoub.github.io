@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-<p><a class="academic-button" href="{{ '/files/Ammar_Yacoub_CV.pdf' | relative_url }}">Download full CV (PDF)</a></p>
+<p><a class="academic-button" href="{{ '/files/Ammar_Yacoub_CV.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer" aria-label="Download full CV (PDF, opens in a new tab)">Download full CV (PDF)</a></p>
 
 ## Education
 
