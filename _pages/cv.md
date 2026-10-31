@@ -1,64 +1,44 @@
 ---
-layout: archive
-title: "CV"
+layout: single
+title: "Curriculum vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+<p><a class="academic-button" href="{{ '/files/Ammar_Yacoub_CV.pdf' | relative_url }}">Download full CV (PDF)</a></p>
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Education
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+- **Ph.D. in Mechanical Engineering**, Southern Methodist University — in progress
+- **M.Sc. in Mechanical/Mechatronics Engineering**, Jordan University of Science and Technology — 2022
+- **B.Sc. in Mechatronics Engineering**, University of Jordan — 2018
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Research and industry experience
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+**Research Assistant · Systems Lab, Southern Methodist University**
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Haptic-enabled virtual palpation for 3D elastography medical imaging; mechanical design, kinematics, dynamics, and nonlinear control of the SMU Haptic Glove.
+
+**Automation Engineer · Prior industry experience**
+
+More than five years of experience in industrial automation before doctoral research.
+
+## Teaching experience
+
+{% assign teaching = site.teaching | sort: 'date' | reverse %}
+{% for course in teaching %}
+- [{{ course.title }}]({{ course.url | relative_url }}) — {{ course.type }}, {{ course.venue }}
+{% endfor %}
+
+## Awards and fellowships
+
+{% assign awards = site.awards | sort: 'date' | reverse %}
+{% for award in awards %}
+- **{{ award.date | date: '%Y' }}** · [{{ award.title }}]({{ award.url | relative_url }})
+{% endfor %}
+
+## Publications
+
+See the [publication list]({{ '/publications/' | relative_url }}) for research summaries, papers, and available citations.

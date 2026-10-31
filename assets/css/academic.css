@@ -1,0 +1,35 @@
+/* Academic identity, with light and dark theme support. */
+:root { --academic-accent: #176b79; --academic-panel: #f1f6f7; --academic-border: #c8d9dd; }
+html[data-theme="dark"] { --academic-accent: #8ad0db; --academic-panel: #202e33; --academic-border: #456067; }
+:root { --global-link-color: var(--academic-accent); --global-link-color-visited: var(--academic-accent); }
+.masthead { border-top: 4px solid var(--academic-accent); }
+.page__content { line-height: 1.75; }
+.page__title { letter-spacing: -.035em; }
+.page__content h2 { letter-spacing: -.025em; margin-top: 2em; }
+.academic-intro { border-left: 4px solid var(--academic-accent); padding: 1.5rem 1.8rem; background: var(--academic-panel); margin: 1rem 0 2rem; }
+.academic-intro .eyebrow { font-size: .68em; text-transform: uppercase; letter-spacing: .12em; font-weight: 700; color: var(--academic-accent); margin: 0 0 1rem; }
+.academic-intro h2 { font-family: Georgia, serif; font-size: clamp(1.8rem, 3.5vw, 2.65rem); font-weight: 400; line-height: 1.15; margin: 0 0 1rem; border: 0; }
+.academic-intro .intro-lead { font-size: 1.05em; max-width: 42em; }
+.academic-actions { display: flex; flex-wrap: wrap; gap: .75rem; margin-top: 1.5rem; }
+.page__content a.academic-button { display: inline-flex; align-items: center; justify-content: center; gap: .65em; padding: .65em 1em; border: 1px solid var(--academic-accent); background: var(--academic-accent); color: #fff; font-size: .82em; font-weight: 700; text-decoration: none; border-radius: 3px; }
+.page__content a.academic-button--outline { background: transparent; color: var(--academic-accent); }
+html[data-theme="dark"] .page__content a.academic-button:not(.academic-button--outline) { color: #14272c; }
+.page__content a.academic-button:hover { filter: brightness(.9); text-decoration: underline; }
+a:focus-visible, button:focus-visible { outline: 3px solid var(--academic-accent); outline-offset: 4px; }
+.academic-columns { display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; }
+.academic-columns > section { min-width: 0; }
+.education-list dt { font-size: .9em; font-weight: 700; }
+.education-list dd { margin: .2em 0 1.2em; font-size: .8em; opacity: .85; }
+.recognition-list { list-style: none; padding: 0; }
+.recognition-list li { display: flex; align-items: baseline; gap: 1rem; padding: .8rem 0; border-bottom: 1px solid var(--academic-border); }
+.recognition-year { font-size: .8em; font-weight: 700; color: var(--academic-accent); }
+.academic-contact { border-top: 2px solid var(--academic-accent); margin-top: 2.5rem; }
+.academic-contact h2 { margin-top: 1rem; }
+.archive__item { padding-bottom: 1rem; }
+.archive__item-excerpt { line-height: 1.7; }
+@media (max-width: 640px) {
+  .academic-columns { grid-template-columns: 1fr; gap: 0; }
+  .academic-intro { padding: 1.25rem; }
+  .academic-actions { flex-direction: column; align-items: stretch; }
+  .page__content { overflow-wrap: anywhere; }
+}

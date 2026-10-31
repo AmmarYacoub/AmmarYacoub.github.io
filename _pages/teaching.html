@@ -7,6 +7,9 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.teaching reversed %}
+<p>I teach through hands-on experimentation, helping students connect mathematical models with physical systems. My laboratory instruction spans feedback control, measurement, instrumentation, and embedded systems.</p>
+
+{% assign courses = site.teaching | sort: 'date' | reverse %}
+{% for post in courses %}
   {% include archive-single.html %}
 {% endfor %}

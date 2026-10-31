@@ -1,43 +1,70 @@
 ---
 permalink: /
-title: "**About me** "
+title: "About me"
 author_profile: true
-redirect_from: 
+excerpt: "Ammar H. Yacoub — mechanical engineering Ph.D. candidate at SMU researching haptics, medical robotics, and nonlinear control."
+redirect_from:
   - /about/
   - /about.html
 ---
 
-Welcome! I am a Mechanical Engineering Ph.D. candidate at Southern Methodist University with a deep focus on dynamics, control systems, and haptics. Backed by over five years of prior industry experience as an Automation Engineer, my goal is to translate complex control theory into functional, real-world robotic systems.
-
-As a Research Assistant in the Systems Lab, my primary work focuses on a Haptic-Enabled Virtual Palpation System for 3D Elastography Medical Imaging. I am actively developing the SMU Haptic Glove, engineering its kinematics, dynamics, and nonlinear control architecture to advance medical diagnostics.
-
-I am passionate about engineering education, leading senior undergraduate students as a Teaching Assistant for both the Control Lab and the Elements of Mechanical Engineering Measurement Lab.
-
-<div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: space-between;">
-
- <!-- Research Interests Column -->
-  <div style="flex: 1; min-width: 300px;">
-    <h3>Research Interests</h3>
-    <hr>
-    <ul style="padding-left: 20px;">
-      <li style="margin-bottom: 10px;">Dynamics & Nonlinear Control</li>
-      <li style="margin-bottom: 10px;">Medical Robotics & Haptics</li>
-      <li style="margin-bottom: 10px;">Mechatronics</li>
-      <li style="margin-bottom: 10px;">Medical Image Processing</li>
-    </ul>
+<div class="academic-intro">
+  <p class="eyebrow">Mechanical engineering · Southern Methodist University</p>
+  <h2>Connecting control theory<br>with the sense of touch.</h2>
+  <p class="intro-lead">I am Ammar H. Yacoub, a Ph.D. candidate working at the intersection of dynamics, nonlinear control, and medical robotics.</p>
+  <div class="academic-actions">
+    <a class="academic-button" href="{{ '/research/' | relative_url }}">Explore my research →</a>
+    <a class="academic-button academic-button--outline" href="{{ '/files/Ammar_Yacoub_CV.pdf' | relative_url }}">Download CV (PDF)</a>
   </div>
-  
-  <!-- Education Column -->
-  <div style="flex: 1; min-width: 300px;">
-    <h3>Education</h3>
-    <hr>
-    <ul style="list-style-type: none; padding-left: 0;">
-      <li style="margin-bottom: 15px;">🎓 <strong>Ph.D. in Mechanical Engineering</strong><br>Southern Methodist University (SMU), Present</li>
-      <li style="margin-bottom: 15px;">🎓 <strong>M.Sc. in Mechanical/Mechatronics Engineering</strong><br>Jordan University of Science and Technology (JUST), 2022</li>
-      <li style="margin-bottom: 15px;">🎓 <strong>B.Sc. in Mechatronics Engineering</strong><br>University of Jordan (JU), 2018</li>
-    </ul>
-  </div>
+</div>
 
- 
+As a Research Assistant in the Systems Lab at Southern Methodist University, I develop haptic interfaces for virtual palpation in 3D elastography medical imaging. My work on the **SMU Haptic Glove** brings together mechanical design, kinematics, dynamics, and nonlinear control to support the development of medical diagnostic tools.
 
+Before my doctoral research, I gained more than five years of industry experience as an Automation Engineer. That experience continues to shape my approach: connecting mathematical models with reliable hardware and experimental validation.
+
+<div class="academic-columns" markdown="1">
+<section markdown="1">
+
+## Research interests
+
+- Dynamics and nonlinear control
+- Medical robotics and haptics
+- Mechatronics and pneumatic actuation
+- Medical image processing
+
+</section>
+<section markdown="1">
+
+## Education
+
+<dl class="education-list">
+  <dt>Ph.D. in Mechanical Engineering</dt>
+  <dd>Southern Methodist University · In progress</dd>
+  <dt>M.Sc. in Mechanical/Mechatronics Engineering</dt>
+  <dd>Jordan University of Science and Technology · 2022</dd>
+  <dt>B.Sc. in Mechatronics Engineering</dt>
+  <dd>University of Jordan · 2018</dd>
+</dl>
+
+</section>
+</div>
+
+## Recent recognition
+
+{% assign recent_awards = site.awards | sort: 'date' | reverse %}
+<ul class="recognition-list">
+{% for award in recent_awards limit:3 %}
+  <li><span class="recognition-year">{{ award.date | date: '%Y' }}</span><a href="{{ award.url | relative_url }}">{{ award.title }}</a></li>
+{% endfor %}
+</ul>
+
+## Teaching and mentorship
+
+I help undergraduate engineers connect theory with practice through laboratory instruction in control systems, mechanical measurements, and mechatronics. My teaching spans MATLAB/Simulink, LabVIEW, Arduino, and experimental hardware.
+
+[Explore my teaching experience →]({{ '/teaching/' | relative_url }})
+
+<div class="academic-contact">
+  <h2>Get in touch</h2>
+  <p>For questions about my research, teaching, or potential collaborations, reach me at <a href="mailto:ayacoub@smu.edu">ayacoub@smu.edu</a>.</p>
 </div>

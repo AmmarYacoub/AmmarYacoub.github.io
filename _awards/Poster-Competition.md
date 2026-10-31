@@ -9,7 +9,8 @@ location: "Irbid, Jordan"
 image: /images/Just_Poster.jpg
 ---
 
-![Poster](/images/Just_Poster.jpg){: .align-right width="400px"
-}Awarded Second Place in the Graduate Research Day Poster Competition, organized by the Graduate School at Jordan University of Science and Technology, in recognition of outstanding research presentation.
+<img src="/images/Just_Poster.jpg" alt="Graduate Research Day award poster" class="align-right" width="400" loading="lazy">
+
+Awarded Second Place in the Graduate Research Day Poster Competition, organized by the Graduate School at Jordan University of Science and Technology, in recognition of outstanding research presentation.
 
 
