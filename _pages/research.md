@@ -22,13 +22,16 @@ Small pneumatic cylinders offer a useful force-to-weight ratio for wearable hapt
 
 My work explores static friction modeling and compensation, sliding mode control, online adaptation, and adaptive super-twisting control. These methods are evaluated experimentally on small pneumatic actuators to understand their tracking performance and robustness.
 
-[Read the related publications →]({{ '/publications/' | relative_url }})
+Related publications:
+
+- [Static friction compensation and sliding mode force control]({{ '/publication/ACC' | relative_url }})
+- [Static friction modeling for miniature pneumatic cylinders (under review)]({{ '/publication/2015-10-01-paper-title-number-3' | relative_url }})
 
 ## Small-scale robotics
 
 My research also includes a magnetically actuated millimeter-scale biped, extending my interest in actuation, dynamics, and robotic locomotion at small scales.
 
-[View journal articles →]({{ '/publications/' | relative_url }})
+[Read “Magnetically Actuated Millimeter-Scale Biped” →]({{ '/publication/2009-10-01-paper-title-number-1' | relative_url }})
 
 ## Research approach
 
