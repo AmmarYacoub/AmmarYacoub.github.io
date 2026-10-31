@@ -27,10 +27,10 @@ Before my doctoral research, I gained more than five years of industry experienc
 
 ## Research interests
 
-- Dynamics and nonlinear control
-- Medical robotics and haptics
+- Nonlinear and robust control
+- Sliding mode and adaptive control
 - Mechatronics and pneumatic actuation
-- Medical image processing
+- Medical robotics and haptics
 
 </section>
 <section markdown="1">
