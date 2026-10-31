@@ -24,8 +24,10 @@ My work explores static friction modeling and compensation, sliding mode control
 
 Related publications:
 
-- [Static friction compensation and sliding mode force control]({{ '/publication/ACC' | relative_url }})
-- [Static friction modeling for miniature pneumatic cylinders (under review)]({{ '/publication/2015-10-01-paper-title-number-3' | relative_url }})
+- [Adaptive Sliding Mode Control with Friction Compensation for Force Tracking of a Small Pneumatic Cylinder]({{ '/publication/Adaptive' | relative_url }})
+- [Static Friction Modeling and Compensation for Improved Force Tracking in Pneumatic Cylinders using Sliding Mode Control]({{ '/publication/ACC' | relative_url }})
+- [Force Control for a Pneumatic Cylinder Using Adaptive Super-Twisting Sliding Mode Control]({{ '/publication/2027-07-01-pneumatic-cylinder-force-control' | relative_url }})
+- [Modeling and Compensation of Static Friction to Improve Force Tracking Performance in Miniature Pneumatic Cylinders]({{ '/publication/2015-10-01-paper-title-number-3' | relative_url }})
 
 ## Small-scale robotics
 
