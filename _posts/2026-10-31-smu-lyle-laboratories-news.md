@@ -29,4 +29,4 @@ That connection reflects my approach to research in nonlinear control and haptic
 
 I am proud to have contributed to this collaborative effort. My hope is that students will use these spaces to ask questions, test ideas, and gain confidence connecting mathematical concepts with physical systems.
 
-Read the [full SMU Lyle news article](https://www.smu.edu/lyle/latest-at-lyle/news/smu-lyle-ai-autonomous-systems-labs), or see my [earlier post about the laboratory launch]({{ '/posts/lail-launch/' | relative_url }}) for photographs and more about my involvement.
+Read the [full SMU Lyle news article](https://www.smu.edu/lyle/latest-at-lyle/news/smu-lyle-ai-autonomous-systems-labs).
