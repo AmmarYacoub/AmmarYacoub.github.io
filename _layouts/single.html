@@ -40,6 +40,10 @@ layout: default
           <p>{{ page.venue }} · {{ page.date | date: "%Y" }}</p>
         {% elsif page.status == 'submitted' %}
           <p>Submitted to <i>{{ page.venue }}</i></p>
+        {% elsif page.collection == 'publications' and page.status == 'accepted' %}
+          <p>Accepted in <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
+        {% elsif page.collection == 'publications' and page.status != 'published' %}
+          <p>Conference paper: <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }}</p>
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.date %}
