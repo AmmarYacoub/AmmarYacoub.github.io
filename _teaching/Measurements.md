@@ -1,11 +1,14 @@
 ---
-title: "Elements of Mechanical Engineering Measurements Laboratory"
+title: Elements of Mechanical Engineering Measurements Laboratory
 collection: teaching
-type: "Graduate Teaching Assistant"
+type: Graduate Teaching Assistant
 permalink: /teaching/Measurements/
-venue: "Southern Methodist University"
+venue: Southern Methodist University
 date: 2025-01-01
-location: "Dallas, TX"
+location: Dallas, TX
+teaching_order: 3
+summary: Supported senior students in experimental design, sensor measurements, data acquisition, and system integration, with guidance on laboratory projects.
+tools: LabVIEW · NI myDAQ and cDAQ · Arduino
 ---
 
 ## Laboratory Overview

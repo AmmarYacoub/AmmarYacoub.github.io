@@ -3,13 +3,26 @@ layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
+excerpt: "Hands-on engineering education in control systems, mechatronics, and experimental measurement at Southern Methodist University."
 ---
 
-{% include base_path %}
+<p>I help students connect engineering theory with hands-on experimentation. My laboratory teaching emphasizes modeling, measurement, and hardware implementation, with guidance that builds confidence in troubleshooting and independent problem-solving.</p>
 
-<p>I teach through hands-on experimentation, helping students connect mathematical models with physical systems. My laboratory instruction spans feedback control, measurement, instrumentation, and embedded systems.</p>
-
-{% assign courses = site.teaching | sort: 'date' | reverse %}
-{% for post in courses %}
-  {% include archive-single.html %}
+{% assign courses = site.teaching | sort: 'teaching_order' %}
+{% for course in courses %}
+<article class="teaching-entry" aria-labelledby="course-{{ course.title | slugify }}">
+  <h2 id="course-{{ course.title | slugify }}"><a href="{{ course.url | relative_url }}">{{ course.title | escape }}</a></h2>
+  <p class="teaching-meta">{{ course.type | escape }} · Southern Methodist University · {{ course.date | date: '%Y' }}</p>
+  <p class="teaching-summary">{{ course.summary | escape }}</p>
+  <p class="teaching-tools"><strong>Tools and platforms:</strong> {{ course.tools | escape }}</p>
+  <a class="teaching-details" href="{{ course.url | relative_url }}">Teaching contributions <span aria-hidden="true">→</span><span class="visually-hidden"> for {{ course.title | escape }}</span></a>
+</article>
 {% endfor %}
+
+{% assign teaching_award = site.awards | where: 'permalink', '/awards/TA/' | first %}
+{% if teaching_award %}
+<section class="teaching-recognition" aria-labelledby="teaching-recognition">
+  <h2 id="teaching-recognition">Teaching recognition</h2>
+  <p><a href="{{ teaching_award.url | relative_url }}"><strong>{{ teaching_award.title | escape }}</strong></a> · {{ teaching_award.date | date: '%Y' }}<br>Department of Mechanical Engineering, Southern Methodist University.</p>
+</section>
+{% endif %}

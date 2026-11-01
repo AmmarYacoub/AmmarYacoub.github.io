@@ -1,11 +1,14 @@
 ---
-title: "Intro to Mechatronics Laboratory"
+title: Intro to Mechatronics Laboratory
 collection: teaching
-type: "Graduate Teaching Assistant"
+type: Graduate Teaching Assistant
 permalink: /teaching/intro-mechatronics-lab
-venue: "Southern Methodist University, Department of Mechanical Engineering"
+venue: Southern Methodist University, Department of Mechanical Engineering
 date: 2026-01-01
-location: "Dallas, TX"
+location: Dallas, TX
+teaching_order: 2
+summary: Led hands-on laboratory sessions in circuits, sensors, actuators, and embedded systems, and supervised projects integrating hardware and software.
+tools: Arduino · Sensors and motor drives · Benchtop instrumentation
 ---
 
 ## Course and Role

@@ -53,3 +53,15 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--academic-accent
 .publication-links li { margin: 0; }
 .publication-links a { display: inline-block; padding: .2rem .65rem; border: 1px solid var(--academic-border); border-radius: 3px; font-size: .72em; font-weight: 700; text-decoration: none; }
 .publication-links a:hover { background: var(--academic-panel); text-decoration: underline; }
+
+/* Teaching overview, with detail pages retained for each course. */
+.teaching-entry { padding: 1.4rem 0; border-bottom: 1px solid var(--academic-border); }
+.teaching-entry h2 { margin: 0 0 .5rem; font-size: 1.05em; line-height: 1.45; }
+.teaching-meta { margin: 0 0 .7rem; font-size: .76em; line-height: 1.6; }
+.teaching-summary { margin: 0 0 .65rem; font-size: .9em; line-height: 1.7; }
+.teaching-tools { margin: 0 0 .7rem; font-size: .78em; line-height: 1.6; }
+.teaching-details { font-size: .8em; font-weight: 700; }
+.teaching-recognition { margin-top: 2rem; padding: 1.2rem 1.4rem; border-left: 3px solid var(--academic-accent); background: var(--academic-panel); }
+.teaching-recognition h2 { margin: 0 0 .6rem; font-size: 1em; }
+.teaching-recognition p { margin: 0; font-size: .85em; line-height: 1.7; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0,0,0,0); white-space: nowrap; }

@@ -1,11 +1,14 @@
 ---
-title: "Control Systems Laboratory"
+title: Control Systems Laboratory
 collection: teaching
-type: "Graduate Teaching Assistant"
+type: Graduate Teaching Assistant
 permalink: /teaching/2026-spring-teaching-1/
-venue: "Southern Methodist University, Department of Mechanical Engineering"
+venue: Southern Methodist University, Department of Mechanical Engineering
 date: 2026-01-01
-location: "Dallas, TX"
+location: Dallas, TX
+teaching_order: 1
+summary: Guided students through system modeling, feedback control, and stability analysis through simulation and hardware experiments.
+tools: MATLAB/Simulink · Quanser QUBE-Servo 3 and Aero 2
 ---
 
 ## Course and Role
