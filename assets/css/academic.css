@@ -82,3 +82,9 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--academic-accent
   .author__urls a, .greedy-nav .hidden-links a { display: block; min-height: 44px; padding-top: .6rem; padding-bottom: .6rem; }
   .teaching-details, .award-details { display: inline-flex; align-items: center; min-height: 44px; }
 }
+
+/* Linked award photographs must fit their detail-page content column. */
+.page__content img { max-width: 100%; height: auto; }
+@media (max-width: 640px) {
+  .page__content img.align-right { float: none; display: block; margin: 0 0 1rem; }
+}

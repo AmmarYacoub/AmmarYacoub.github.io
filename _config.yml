@@ -169,6 +169,8 @@ include:
   - _pages
   - files
 exclude:
+  - talkmap
+  - markdown_generator
   - _posts/2199-01-01-future-post.md
   - scripts
   - WEBSITE_NOTES.md
@@ -280,6 +282,13 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _awards
+  - scope:
+      path: ""
+      type: awards
+    values:
+      layout: single
+      author_profile: true
   # _publications
   - scope:
       path: ""
