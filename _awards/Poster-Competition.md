@@ -1,12 +1,13 @@
 ---
-title: "Second Place Award – Graduate Research Day Poster Competition"
+title: Second Place Award – Graduate Research Day Poster Competition
 collection: awards
-type: "Research Award"
+type: Research Award
 permalink: /awards/poster-competition/
-venue: "Jordan University of Science and Technology"
+venue: Jordan University of Science and Technology
 date: 2022-06-01
-location: "Irbid, Jordan"
+location: Irbid, Jordan
 image: /images/Just_Poster.jpg
+summary: Awarded second place for research presentation at the university’s Graduate Research Day poster competition.
 ---
 
 <img src="/images/Just_Poster.jpg" alt="Graduate Research Day award poster" class="align-right" width="400" loading="lazy">

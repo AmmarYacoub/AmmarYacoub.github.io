@@ -1,12 +1,14 @@
 ---
-title: "Dean’s Dissertation Fellowship"
+title: Dean’s Dissertation Fellowship
 collection: awards
-type: "Award"
+type: Award
 permalink: /awards/deans-dissertation-fellowship/
-venue: "Moody School of Graduate and Advanced Studies, Southern Methodist University"
-location: "Dallas, Texas"
+venue: Moody School of Graduate and Advanced Studies, Southern Methodist University
+location: Dallas, Texas
 date: 2026-04-30
-awardurl: "https://www.smu.edu/moody/funding/phd-fellows#deans-dissertation-fellowships"
+awardurl: https://www.smu.edu/moody/funding/phd-fellows#deans-dissertation-fellowships
+display_year: 2026–2027
+summary: Selected for dissertation support recognizing academic and research achievement during the final stage of doctoral study.
 ---
 
 Selected as a recipient of the Dean’s Dissertation Fellowship for the 2026–27 academic year. The fellowship supports outstanding doctoral students during the final stage of their dissertation research and recognizes academic and research achievement.

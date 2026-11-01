@@ -3,15 +3,17 @@ layout: archive
 title: "Awards & Fellowships"
 permalink: /awards/
 author_profile: true
+excerpt: "Recognition for research, teaching, and academic achievement."
 ---
 
-{% include base_path %}
+<p>Recognition for my research, teaching, and academic contributions.</p>
 
 {% assign awards = site.awards | sort: 'date' | reverse %}
-{% for post in awards %}
-  {% include archive-single-award.html %}
-  
-  <div style="clear: both;"></div>
-  
-  <hr> 
+{% for award in awards %}
+<article class="award-entry" aria-labelledby="award-{{ award.title | slugify }}">
+  <h2 id="award-{{ award.title | slugify }}"><a href="{{ award.url | relative_url }}">{{ award.title | escape }}</a></h2>
+  <p class="award-meta">{{ award.venue | escape }} · {% if award.display_year %}{{ award.display_year | escape }}{% else %}{{ award.date | date: '%Y' }}{% endif %}</p>
+  <p class="award-summary">{{ award.summary | escape }}</p>
+  <a class="award-details" href="{{ award.url | relative_url }}">View details <span aria-hidden="true">→</span><span class="visually-hidden"> for {{ award.title | escape }}</span></a>
+</article>
 {% endfor %}

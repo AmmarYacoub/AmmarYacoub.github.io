@@ -1,12 +1,13 @@
 ---
-title: "Best Teaching Assistant Award"
+title: Best Teaching Assistant Award
 collection: awards
-type: "Teaching Award"
+type: Teaching Award
 permalink: /awards/TA/
-venue: "Mechanical Engineering Department, SMU"
+venue: Mechanical Engineering Department, SMU
 date: 2026-05-04
-location: "Dallas, Texas"
+location: Dallas, Texas
 image: /images/Best_TA.jpeg
+summary: Recognized for excellence in laboratory teaching and support for students’ hands-on engineering experience.
 ---
 
 <a href="/images/Best_TA.jpeg" target="_blank">
