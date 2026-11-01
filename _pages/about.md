@@ -43,7 +43,7 @@ With more than five years of prior experience in industrial automation, I connec
   <dt>M.Sc. in Mechanical/Mechatronics Engineering</dt>
   <dd>Jordan University of Science and Technology · 2022</dd>
   <dt>B.Sc. in Mechatronics Engineering</dt>
-  <dd>University of Jordan · 2018</dd>
+  <dd>University of Jordan · 2017</dd>
 </dl>
 
 </section>

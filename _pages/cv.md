@@ -13,7 +13,7 @@ redirect_from:
 
 - **Ph.D. in Mechanical Engineering**, Southern Methodist University — in progress
 - **M.Sc. in Mechanical/Mechatronics Engineering**, Jordan University of Science and Technology — 2022
-- **B.Sc. in Mechatronics Engineering**, University of Jordan — 2018
+- **B.Sc. in Mechatronics Engineering**, University of Jordan — 2017
 
 ## Research and industry experience
 
