@@ -11,7 +11,7 @@
   {% if post.paperurl or post.doi or post.bibtexurl %}
   <ul class="publication-links" aria-label="Resources for {{ post.title | escape }}">
     {% if post.paperurl %}<li><a href="{{ post.paperurl | escape }}" target="_blank" rel="noopener noreferrer" aria-label="Paper (opens in a new tab)">Paper</a></li>{% endif %}
-    {% if post.doi %}<li><a href="https://doi.org/{{ post.doi | escape }}">DOI</a></li>{% endif %}
+    {% if post.doi %}<li><a href="https://doi.org/{{ post.doi | escape }}" target="_blank" rel="noopener noreferrer" aria-label="DOI (opens in a new tab)">DOI</a></li>{% endif %}
     {% if post.bibtexurl %}<li><a href="{{ post.bibtexurl | escape }}">BibTeX</a></li>{% endif %}
   </ul>
   {% endif %}
