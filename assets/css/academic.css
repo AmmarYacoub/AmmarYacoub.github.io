@@ -72,3 +72,13 @@ a:focus-visible, button:focus-visible { outline: 3px solid var(--academic-accent
 .award-meta { margin: 0 0 .7rem; font-size: .76em; line-height: 1.6; }
 .award-summary { margin: 0 0 .7rem; font-size: .9em; line-height: 1.7; }
 .award-details { font-size: .8em; font-weight: 700; }
+
+/* Small-screen and keyboard refinements from the site-wide review. */
+.author__urls .author__desktop { white-space: normal; overflow-wrap: anywhere; }
+#main .page, #main .archive { overflow-wrap: anywhere; }
+@media (max-width: 640px) {
+  .publication-links a { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; min-width: 44px; padding: .45rem .75rem; }
+  .author__urls-wrapper button { min-height: 44px; min-width: 44px; }
+  .author__urls a, .greedy-nav .hidden-links a { display: block; min-height: 44px; padding-top: .6rem; padding-bottom: .6rem; }
+  .teaching-details, .award-details { display: inline-flex; align-items: center; min-height: 44px; }
+}
